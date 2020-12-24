@@ -1,0 +1,65 @@
+   body
+       {
+       	     background-color: DarkGoldenRod; 
+       }
+   
+   h1
+     {
+     	background-color: FireBrick;
+     font-family: "Permanent Marker", cursive;
+     font-size: 70px;
+     color: DimGray;
+     border: solid;
+     border-color: black;
+     border-radius: 50px;
+     }
+
+     h2
+       {
+       	    background-color: black;
+        font-family: "Courier New", Monospace;
+        font-size: 45px;
+        color: DarkGoldenRod;
+        border: outset;
+        border-radius: 25px;
+
+       }
+
+     h3
+       {
+       	 background-color: black;
+        font-family: "Courier New", Monospace;
+        font-size: 45px;
+        color: DarkGoldenRod;
+        border: outset;
+        border-radius: 25px;
+       }
+      
+     p
+      {
+         background-color: BurlyWood;
+        font-family: "verdana", sans-serif;
+        font-size: 25px;
+        border: double;
+        border-radius: 25px;
+
+      }
+
+      a:link, a:visited
+      {
+      	background-color: FireBrick;
+      	color: aquamarine;
+      	font-size: 25px;
+      	text-decoration: none;
+      	display: inline-block;
+      	border-radius: 25px;
+      	padding: 15px;
+
+      }
+
+      a:hover, a:active
+      {
+      	background-color: darkgrey;
+      	color: DarkGoldenRod;
+
+      }
